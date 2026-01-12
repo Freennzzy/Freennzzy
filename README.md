@@ -1,6 +1,10 @@
-# 👋 Hello, I'm Frenzy
+<h1 align="center">
+  👋 Hello, I'm Frenzy
+</h1>
 
-I'm always eager to learn and explore new things.
+<p align="center">
+  I'm always eager to learn and explore new things.
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/757535423147802636">
